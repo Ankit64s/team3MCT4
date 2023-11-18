@@ -33,7 +33,7 @@ The project is hosted at [Payment Integration]https://geekathonteam3.netlify.app
 
 ## How to Use
 
-1. Open the hosted link [Invoice Generator]https://geekathonteam3.netlify.app/paymentintegrationbysatvik/
+1. Open the hosted link [Payment Integration]https://geekathonteam3.netlify.app/paymentintegrationbysatvik/
 2. Fill in the basic required details like name, address, phone number, etc.
 3. Choose an option from payment option to pay like UPI, Net Banking, Wallet, etc
 
